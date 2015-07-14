@@ -12,6 +12,7 @@ response.writeHead( 200, {"content-type": "text/plain"} );
 response.write( "Hellow to the cupcake Factory!\n" );
 response.write( "Hope you enjoy it!\n" );
 response.write( "Hola Fabio Pena!\n" );
+response.write( "Prueba 1!\n" );
 response.end();
  
  
