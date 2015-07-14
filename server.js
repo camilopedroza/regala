@@ -9,7 +9,8 @@ function( request, response ){
  
 // Create a SUPER SIMPLE response.
 response.writeHead( 200, {"content-type": "text/plain"} );
-response.write( "Hellow world from AWS!\n" );
+response.write( "Hellow to the cupcake Factory!\n" );
+response.write( "Hope you enjoy it!\n" );
 response.end();
  
  
