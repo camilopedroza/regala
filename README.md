@@ -1,8 +1,4 @@
-# regala
-regala site
+single-page-app-angularjs
+=========================
 
-# Push to webserver
-git push origin master
-
-# Push to github
-git push github master
+Demo : http://demo.codeforgeek.com/single-page-app-angularjs/
