@@ -5,6 +5,6 @@ console.log(server);
 server.deploy(
     {
         port:8080,
-        root:'./'
+        root:'../'
     }
 );
