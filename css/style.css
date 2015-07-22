@@ -152,7 +152,10 @@ nav a:hover{
 	float:left;	
 }
 /*end navigationmenu*/
-
+.center{
+	margin: 0 auto;
+    width: 100px; 
+}
 
 /*start sectionslide*/
 #sectionslide{

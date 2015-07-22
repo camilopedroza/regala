@@ -72,7 +72,6 @@ if (tpj.fn.cssOriginal!=undefined)
 
 
 
-
 //isotope
 SWEET.gallery = function(){
   
@@ -117,8 +116,6 @@ SWEET.gallery = function(){
   
 }
 //end isotope
-
-
 
 //map
 SWEET.map = function(){
